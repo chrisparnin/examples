@@ -20,5 +20,5 @@ console.log(keyboard);
 
 You can find many more examples here:
 
-* ...
-* ...
+* [Interactive Inside Git Tutorial](tutorials/Git.md), by git core contributor!
+* [Tar Challenge!](basics/tar-challenge.md).
