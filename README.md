@@ -3,7 +3,7 @@
 Try these interactive commands!
 
 ```bash |{type:'command', tty: true}
-ls /
+ls --color=always /
 ```
 
 Running simple code.
