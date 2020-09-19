@@ -30,7 +30,7 @@ git clone https://github.com/git/git
 
 We'll be working inside the git/ directory set our working state to v2.23.0.
 
-```bash|{type:'command'}
+```bash|{type:'command', failed_when: 'exitCode!=0'}
 cd git
 git reset --hard v2.23.0
 ```
