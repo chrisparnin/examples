@@ -57,7 +57,7 @@ git status -uno
 
 You can now publish your changes to docable.cloud!
 
-```bash |{type:'command', variables: 'repo_dir'}
+```bash |{type:'command', variables: 'repo_dir', failed_when:'exitCode!=0'}
 cd {{repo_dir}}
 git push docable
 ```
