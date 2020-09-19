@@ -8,11 +8,15 @@ setup:
 
 ![image](https://cloud.githubusercontent.com/assets/742934/15635543/d1044ff6-25ae-11e6-9680-077830cff8f5.png)
 
-Workshop by [Chris Parnin](http://chrisparnin.me/), with contributions from [Derrick Stolee](https://stolee.dev/)
+Have you ever wondered how git worked _inside_? Here's a chance to interactively play around with a few git commands that will help reveal the inner workings of git, itself!
 
-## Understanding Git Interals
+Just click on the "Run" button in each cell, and see the result of the command, below. Some command results can be clicked on to reveal a few more details.
 
-By [Derrick Stolee](https://stolee.dev/).
+See how this tutorial was built with [docable notebooks](https://github.com/ottomatica/docable-notebooks)!
+
+## Understanding Git Internals
+
+> By [Derrick Stolee](https://stolee.dev/), git core contributor, adapted into interactive notebook by [Chris Parnin](http://chrisparnin.me/).
 
 What better way to understand git, then check out git itself. 
 
