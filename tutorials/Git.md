@@ -1,4 +1,3 @@
-[Setup](Setup.md#setup) | [Shells](Shells.md#shells) |  [Git](Git.md#git) | [Markdown and IDEs](MarkdownEditors.md#markdown) |  [Virtual Environments](Environments.md#environments) | [Task Management](OnlineTools.md#online-tools)
 # Git
 
 ![image](https://cloud.githubusercontent.com/assets/742934/15635543/d1044ff6-25ae-11e6-9680-077830cff8f5.png)
@@ -238,13 +237,15 @@ While having a local git repository is cool, we should connect it to another rem
 
 **Exercise**: Let's open a terminal and perform the following steps.
 
+*Note*: You must be running local docable server to run these steps.
+
 Windows:
 ```bash|{type:'command', path: 'Basics', platform: 'win32'}
 start bash
 ```
 
 Mac/Linux:
-```bash|{type:'command', path: 'Basics'}
+```bash|{type:'command', path: 'Basics', platform: 'darwin'}
 open -a "Terminal" .
 ```
 
