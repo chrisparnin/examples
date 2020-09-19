@@ -1,6 +1,14 @@
+<!--
+setup: 
+  docker:
+    image: git_workshop
+-->
+
 # Git
 
 ![image](https://cloud.githubusercontent.com/assets/742934/15635543/d1044ff6-25ae-11e6-9680-077830cff8f5.png)
+
+Workshop by [Chris Parnin](http://chrisparnin.me/), with contributions from [Derrick Stolee](https://stolee.dev/)
 
 ### Why Version Control?
 
@@ -8,12 +16,15 @@
 
 "Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system." -- [Version Control with Git](http://swcarpentry.github.io/git-novice/)
 
-
 ## Understanding Git
 
-What better way to understand git, then check out git itself. This might take a while...
+By [Derrick Stolee](https://stolee.dev/).
 
-```bash|{type:'command', stream: true, failed_when:'exitCode != 0'}
+What better way to understand git, then check out git itself. 
+
+*Note:* We have already run this step for you! Otherwise, this might take a while!
+
+```bash
 git clone https://github.com/git/git
 ```
 
