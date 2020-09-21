@@ -12,7 +12,9 @@ Have you ever wondered how git worked _inside_? Here's a chance to interactively
 
 Just click on the "Run" button in each cell, and see the result of the command, below. Some command results can be clicked on to reveal a few more details.
 
-See how this tutorial was built with [docable notebooks](https://github.com/ottomatica/docable-notebooks)!
+![docable-click](resources/imgs/docable-click.gif)
+
+> See how this tutorial was built with [docable notebooks](https://github.com/ottomatica/docable-notebooks)!
 
 ## Understanding Git Internals
 
