@@ -14,7 +14,7 @@ Just click on the "Run" button in each cell, and see the result of the command, 
 
 ![docable-click](resources/imgs/docable-click.gif)
 
-> See how this tutorial was built with [docable notebooks](https://github.com/ottomatica/docable-notebooks)!
+> See how this tutorial was built from simple markdown with [docable notebooks](https://github.com/ottomatica/docable-notebooks)!
 
 ## Understanding Git Internals
 
