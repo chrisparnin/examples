@@ -29,7 +29,7 @@ let fnShuffle = (arr) => arr.slice().sort(() => Math.random() - 0.5)
 console.log( fnShuffle([1,2,3,4,5,6,7,8,9,10]) );
 ```
 
-< If you ever needed to mix things you, this method will move things around in an array. Because `sort` will modify an array in-place, we can take advantage of the shallow copy returned by `slice`.
+> If you ever needed to mix things you, this method will move things around in an array. Because `sort` will modify an array in-place, we can take advantage of the shallow copy returned by `slice`.
 
 ### Generate random color.
 
