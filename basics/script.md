@@ -16,7 +16,7 @@ console.log( array );
 This snippet will generate a semi-random alphanumeric ids.
 
 ```js |{type:'script'}
-let id = Math.random().toString(36).substring(3);
+let id = Math.random().toString(36).substring(2);
 console.log(id);
 ```
 > Why? The random float will be converted into base 36, which will be represented with 10 digits and 26 alphanumeric characters. The `.substring(2)` will remove the leading 0.
